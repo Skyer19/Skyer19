@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning Fuzhou University
 
 [![rmy's github stats](https://github-readme-stats.vercel.app/api?username=mengyu666)](https://github.com/anuraghazra/github-readme-stats)
 
