@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Fuzhou University
-📫 How to reach me: support@raomengyu.top
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengyu666&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mengyu666&count_private=true" />
-</a>
 
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengyu666&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mengyu666&count_private=true" />
+
+<!--<img align='right' src="https://github-readme-stats.vercel.app/api?username=siricee&show_icons=true&hide_border=true">
+
+### Hi there 👋
+
+🎓 I’m currently learning Fuzhou University<br>
+📝 Blog: [rmy's Blog](raomengyu.top)<br>
+📫 Mail: support@raomengyu.top
+
+😁 From [me](https://github.com/mengyu666)<br>
