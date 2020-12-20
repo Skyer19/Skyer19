@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Fuzhou University
-📫 How to reach me: <a href="mailto:support@raomengyu.top">
+📫 How to reach me: support@raomengyu.top
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengyu666&layout=compact" />
 </a>
