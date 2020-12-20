@@ -16,15 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=siricee&show_icons=true&hide_border=true">
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mengyu666&show_icons=true&hide_border=true">
 ### Hi there：
 
 🎓 I’m currently learning Fuzhou University<br>
 📝 Blog: [rmy's Blog](raomengyu.top)<br>
-📫 Mail: support@raomengyu.top
+📫 Mail: support@raomengyu.top<br>
 
-😁 From [me](https://github.com/mengyu666)<br> -->
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=siricee&show_icons=true&hide_border=true">
-
+😁 From [me](https://github.com/mengyu66<br>
