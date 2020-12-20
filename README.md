@@ -16,5 +16,11 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning Fuzhou University
 
-[![rmy's github stats](https://github-readme-stats.vercel.app/api?username=mengyu666&count_private=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengyu666&layout=compact)]
+// [![rmy's github stats](https://github-readme-stats.vercel.app/api?username=mengyu666&count_private=true)]
+// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengyu666&layout=compact)]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mengyu666&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengyu666&layout=compact" />
+</a>
