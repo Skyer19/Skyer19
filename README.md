@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning Fuzhou University
 
-[![rmy's github stats](https://github-readme-stats.vercel.app/api?username=mengyu666count_private=true)]
+[![rmy's github stats](https://github-readme-stats.vercel.app/api?username=mengyu666&count_private=true)]
 
