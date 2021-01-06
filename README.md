@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mengyu666&show_icons=true&hide_border=true">
 
 🎓 I’m currently learning Fuzhou University<br>
-📝 Blog: [rmy's Blog](raomengyu.top)<br>
+📝 Blog: [rmy's Blog](http://raomengyu.top)<br>
 📫 Mail: support@raomengyu.top<br>
 
 😁 Learn from [me](https://github.com/mengyu666)<br>
