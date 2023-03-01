@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 🎓 I’m currently learning Fuzhou University<br>
 <!-- 📝 Blog: [rmy's Blog](https://www.raomengyu.top)<br> -->
-📫 Mail: support@raomengyu.top<br>
+📫 Mail: support@unecs.cn<br>
 
 😁 Learn from [me](https://github.com/Skyer19)<br>
