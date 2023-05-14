@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Skyer19&show_icons=true&hide_border=true">
 
 🎓 I’m currently learning Fuzhou University<br>
+🎓 I will learn in Imperial College London<br>
 <!-- 📝 Blog: [rmy's Blog](https://www.raomengyu.top)<br> -->
-📫 Mail: support@unecs.cn<br>
+<!-- 📫 Mail: support@unecs.cn<br> -->
 
 😁 Learn from [me](https://github.com/Skyer19)<br>
