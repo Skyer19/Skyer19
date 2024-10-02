@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <!-- 🎓 I have learned at [Fuzhou University](https://www.fzu.edu.cn)<br>-->
 🎓 I’m currently learning at [Imperial College London](https://www.imperial.ac.uk)<br>
 <!-- 📝 Blog: [rmy's Blog](https://www.raomengyu.top)<br> -->
-📫 Contact me: qt@mail.rao.ac.cn
+<!-- 📫 Contact me: qt@mail.rao.ac.cn -->
 
 😁 Learn from [me](https://github.com/Skyer19)<br>
