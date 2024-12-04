@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <!-- 📝 Blog:....-->
 
 🔭 I’m currently working on World Intellectual Property Organization of United Nation (UN) as a machine engineer.<br>
-🎓 I learnt at [Imperial College London](https://www.imperial.ac.uk) before.<br>
+<!--🎓 I learnt at [Imperial College London](https://www.imperial.ac.uk) before.<br>-->
 📫 Contact me: mrao@aiml.ac.cn
 😁 
